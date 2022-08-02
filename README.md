@@ -1,7 +1,7 @@
 ### Hola 👋, I'm Ovidio Romero
 #### Electronic Engineer / Photovoltaic Technician / Junior Software Developer.
 
-Habilidades: C# / JAVA /PYTHON / JS / HTML / CSS
+Habilidades: C# / JAVA / PYTHON / JS / HTML / CSS
 
 - 🔭 Estoy trabajando en this page. 
 
