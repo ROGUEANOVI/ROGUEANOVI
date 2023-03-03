@@ -1,7 +1,7 @@
 ### Hola 👋, I'm Ovidio Romero
 #### Electronic Engineer | Photovoltaic Technician |Software Developer.
 
-Habilidades: C# | JavaScript | TypeScript | Python | JAVA | HTML | CSS | Angular | SqlServer | MySQL | MongoDB | Docker
+Habilidades:  HTML, CSS, Bootstrap | C#, .NET, ASP.NET, SqlServer | JavaScript, TypeScript, Node.js, Angular, MongoDB | Python, Django, MySQL | git, Docker
 
 - 🔭 Estoy trabajando en this page. 
 
